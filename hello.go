@@ -1,9 +1,9 @@
-package main
+package hello
 
 import (
 	"fmt"
 )
 
-func main() {
-	fmt.Printf("Hello World from JFrog QA!")
+func Hello() {
+	fmt.Println("Hello from JFrog QA!")
 }
